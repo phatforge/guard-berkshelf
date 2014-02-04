@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apache2": {
+      "locked_version": "1.8.14"
+    },
+    "mysql": {
+      "locked_version": "4.0.20"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    }
+  }
+}

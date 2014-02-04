@@ -1,0 +1,3 @@
+guard :berkshelf do
+  watch('Berksfile')
+end
