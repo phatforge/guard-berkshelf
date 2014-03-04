@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.9.2'
 
   s.add_dependency 'guard',   '~> 2.3'
-  s.add_dependency 'berkshelf', '~> 3.0.0.beta5'
+  s.add_dependency 'berkshelf', '~> 3.0.0.beta7'
 
   s.files        = Dir.glob('{lib}/**/*') + %w[LICENSE README.md]
   s.require_path = 'lib'
